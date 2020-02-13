@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,600,700,800,800i&display=swap');
+/*font-family: 'Playfair Display', serif;*/
+
+
+.images img{
+	width: 100%;
+}
+
+
+.content{
+	width: 80%;
+	margin: auto;
+	margin-top: 80px;
+}
+
+.content span{
+	font-size: 14px;
+	color: #626262;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+	display:block;
+}
+
+.content h1{
+	color: #626262;
+	size: 58px;
+	margin-bottom: 30px;
+	font-family: 'Playfair Display', regular;
+
+
+}
+
+.content p{
+	color: #626262;
+	line-height: 1.4;
+	margin-bottom: 28px;
+
+}
+
+.mid-div{
+
+	width: 80%;
+	margin:auto;
+	margin-top: 50px;
+
+}
+
+.mid-div img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.mid-div span{
+
+	font-size: 14px;
+	color: #626262;
+	text-transform: uppercase;
+	margin-bottom: 15px;
+	display:block;
+	width: 90%;
+}
+
+.mid-div h3{
+    color: #626262;
+	size: 50px;
+	margin-bottom: 30px;
+	font-family: 'Playfair Display', regular;
+}
+
+.mid-div p{
+
+    color: #626262;
+	line-height: 1.4;
+	margin-bottom: 30px;
+}
+
+
+.newsletter{
+
+	height: 250px;
+	background-color: #f0f0f0;
+	margin-top: 50px;
+
+
+
+}
+.newsletter_content{
+	width: 40%;
+	margin: auto;
+	padding-top: 50px;
+	position: relative;
+}
+
+.newsletter_content h3{
+	padding-bottom: 50px;
+	color: #626262;
+
+}
+
+.newsletter_content input{
+
+	border: none;
+	background-color: transparent;
+	border-bottom: 1px solid;
+	width: 100%;
+}
+
+.send_icon{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+
+
+.btn{
+	
+	margin-left: 480px;
+	margin-bottom: 150px;
+	width: 120px;
+	margin-top: 50px;
+}
+
+
